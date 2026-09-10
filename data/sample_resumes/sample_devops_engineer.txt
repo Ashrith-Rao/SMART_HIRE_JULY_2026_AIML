@@ -1,0 +1,9 @@
+David Chen
+DevOps & Cloud Systems Engineer
+Summary: 5 years experience in cloud infrastructure automation, container orchestration, and reliability engineering.
+Skills: AWS, Azure, Docker, Kubernetes, Terraform, Ansible, Jenkins, CI/CD, Linux, Bash, Git, Python, Prometheus, Grafana, Microservices.
+Experience:
+- Architected high-availability Kubernetes clusters hosting 40+ microservices on AWS EKS.
+- Provisioned infrastructure-as-code using Terraform and automated configuration management with Ansible.
+- Reduced deployment lead times by 65% through Jenkins and GitLab CI/CD pipelines.
+Education: B.Tech in Computer Engineering.

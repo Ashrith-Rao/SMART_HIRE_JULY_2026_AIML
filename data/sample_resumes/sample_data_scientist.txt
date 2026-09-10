@@ -1,0 +1,9 @@
+Alex Morgan
+Senior Data Scientist & ML Engineer
+Summary: 4+ years of professional experience building machine learning models, statistical analyses, and data pipelines.
+Skills: Python, Machine Learning, Deep Learning, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Tableau, Data Analysis, Statistics, Git, Docker.
+Experience:
+- Built end-to-end predictive customer churn models achieving 89% ROC-AUC.
+- Productionized NLP text classification pipelines using TF-IDF and transformer architectures.
+- Engineered SQL queries and automated reporting dashboards in Tableau for executive leadership.
+Education: B.S. in Computer Science & Applied Mathematics.
